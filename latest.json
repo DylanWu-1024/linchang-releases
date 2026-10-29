@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/DylanWu-1024/linchang-releases/releases/download/v2.3.0/linchang-mobile-v2.3.0.apk",
-  "size": 68501834,
-  "notes": "新增扫码连接、侧栏导航、设置页（含字号实时预览）、历史记录（可搜索）、OTA 自动更新检查。修复转录定稿率过低、说话人误判、历史记录被折叠三个问题。",
+  "version": "2.3.1",
+  "url": "https://github.com/DylanWu-1024/linchang-releases/releases/download/v2.3.1/linchang-mobile-v2.3.1.apk",
+  "size": 68501832,
+  "notes": "修 OTA 检查：改用 GitHub API（raw/jsDelivr 在国内均不可达）。修正 APK 下载文件名。—— 本版是 OTA 的基础版，从下个版本起可在 App 内直接收到更新提示。",
   "mandatory": false
 }
