@@ -1,6 +1,6 @@
 {
   "version": "2.3.1",
-  "url": "https://github.com/DylanWu-1024/linchang-releases/releases/download/v2.3.1/linchang-mobile-v2.3.1.apk",
+  "url": "https://gh-proxy.com/https://github.com/DylanWu-1024/linchang-releases/releases/download/v2.3.1/linchang-mobile-v2.3.1.apk",
   "size": 68501832,
   "notes": "修 OTA 检查：改用 GitHub API（raw/jsDelivr 在国内均不可达）。修正 APK 下载文件名。—— 本版是 OTA 的基础版，从下个版本起可在 App 内直接收到更新提示。",
   "mandatory": false
